@@ -40,11 +40,11 @@ A code editor like Visual Studio Code, or an IDE is required to execute C++ File
 
 If you don't have a code editor use the link given below to execute your Program.
 
-* Online GDB Compiler
+* Code Chef IDE
   ```sh
-  https://www.onlinegdb.com/online_c_compiler
+    https://www.codechef.com/ide
   ```
-  Each Folder contains a '.cpp' file, Click and open the file. Copy the contents to a text editor or Online GDB Compiler to run and build the programs.
+  Each Folder contains a '.cpp' file, Click and open the file. Copy the contents to a text editor or CodeChef IDE to run and build the programs.
 ### Installation
 
 To get all the files present in the repository, clone the project to your desktop.
