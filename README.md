@@ -36,7 +36,9 @@ To setup a working environment to execute the files, follow the steps given belo
 
 ### Prerequisites
 
-A code editor like Visual Studio Code, or an IDE is required to execute C++ Files. If you don't have a code editor use the link given below to execute your Program.
+A code editor like Visual Studio Code, or an IDE is required to execute C++ Files. 
+
+If you don't have a code editor use the link given below to execute your Program.
 
 * Online GDB Compiler
   ```sh
