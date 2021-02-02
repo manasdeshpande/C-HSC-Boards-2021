@@ -30,15 +30,15 @@ I would like to Thank You for visiting this repository, if you find any content 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To setup a working environment to execute the files, follow the steps given below.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+A code editor like Visual Studio Code, or an IDE is required to execute C++ Files. If you don't have a code editor use the link given below to execute your Program.
+
+* Online GDB Compiler
   ```sh
-  npm install npm@latest -g
+  https://www.onlinegdb.com/online_c_compiler
   ```
 
 ### Installation
